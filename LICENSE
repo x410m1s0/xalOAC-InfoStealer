@@ -1,21 +1,117 @@
-MIT License
+XALOAC-STEALER ÖZEL ARAŞTIRMA LİSANSI
+
+Copyright (c) 2026 xaloAC
+Developer: x410m1s0
+
+Bu lisans, "xaloAC-Stealer" projesinin kaynak kodları, dosyaları, bileşenleri ve bunların türevleri için geçerlidir.
+
+1. AMAÇ
+
+Bu proje yalnızca eğitim, malware analizi, güvenlik araştırması, savunma amaçlı geliştirme ve kontrollü laboratuvar çalışmaları kapsamında incelenmek üzere yayımlanmaktadır.
+
+2. İZİN VERİLEN KULLANIM
+
+Kaynak kodu aşağıdaki amaçlarla incelenebilir:
+
+* Malware analizi,
+* Güvenlik araştırması,
+* Savunma amaçlı güvenlik geliştirme,
+* Detection Engineering,
+* Kontrollü laboratuvar testleri,
+* Kaynak kodu inceleme,
+* Eğitim ve öğrenme.
+
+Testler yalnızca kullanıcının sahip olduğu veya açıkça test izni verilen sistemlerde gerçekleştirilmelidir.
+
+3. YASAKLANAN KULLANIM
+
+Bu proje kullanılarak:
+
+* Gerçek kullanıcıların verilerinin izinsiz toplanması,
+* Parola veya kimlik bilgilerinin çalınması,
+* Cookie veya session bilgilerinin izinsiz alınması,
+* Wi-Fi kimlik bilgilerinin izinsiz elde edilmesi,
+* Dosyaların izinsiz kopyalanması,
+* Yetkisiz hesap erişimi,
+* Kişisel verilerin izinsiz aktarılması,
+* Zararlı yazılımın üçüncü kişilere izinsiz dağıtılması
+
+yasaktır.
+
+4. GERÇEK SİSTEMLER
+
+Bu kaynak kodun gerçek kullanıcı bilgisayarlarında izinsiz çalıştırılması lisans kapsamında verilen bir kullanım hakkı değildir.
+
+Araştırma amacıyla kullanım yalnızca yetkili ve kontrollü ortamlarda gerçekleştirilmelidir.
+
+5. YENİDEN DAĞITIM
+
+Bu projenin kaynak kodunun veya değiştirilmiş sürümlerinin yeniden dağıtılması için xaloAC'nin yazılı izni gereklidir.
+
+İzin verilmesi durumunda:
+
+* Bu LICENSE dosyası korunmalıdır.
+* README dosyasındaki proje amacı ve uyarılar kaldırılmamalıdır.
+* xaloAC ve x410m1s0 geliştirici bilgileri korunmalıdır.
+* Değiştirilmiş sürüm olduğu açıkça belirtilmelidir.
+* Projenin xaloAC tarafından geliştirildiği veya onaylandığı yönünde yanlış bir izlenim oluşturulmamalıdır.
+
+6. TİCARİ KULLANIM
+
+xaloAC'nin açık yazılı izni olmadan bu projenin veya herhangi bir bölümünün satılması, kiralanması veya ticari bir ürün ya da hizmet içerisinde kullanılması yasaktır.
+
+7. MARKA
+
+"xaloAC", "xaloAC-Stealer" ve "x410m1s0" isimleri bu lisans kapsamında başka ürün veya projelerde kullanılmak üzere devredilmiş değildir.
+
+Bu isimlerin xaloAC'nin onayı varmış izlenimi oluşturacak şekilde kullanılması yasaktır.
+
+8. ÜÇÜNCÜ TARAF HAKLARI
+
+Projede adı geçen üçüncü taraf uygulama, servis, marka ve teknolojiler ilgili hak sahiplerine aittir.
+
+Bu lisans herhangi bir üçüncü tarafın fikri mülkiyet haklarını devretmez veya değiştirmez.
+
+9. GARANTİ YOKTUR
+
+Bu proje "OLDUĞU GİBİ" sunulmaktadır.
+
+xaloAC veya x410m1s0:
+
+* Kodun hatasız olduğunu,
+* Kodun belirli bir Windows sürümünde çalışacağını,
+* Tüm veri toplama mekanizmalarının çalışacağını,
+* Herhangi bir sistemle uyumlu olacağını,
+* Projenin belirli bir amaca uygun olduğunu
+
+garanti etmez.
+
+10. TEST DURUMU
+
+Kaynak kodun tamamının gerçek sistemlerde test edildiği iddia edilmemektedir.
+
+Kaynak kodunda bulunan bir işlevin varlığı, o işlevin gerçek ortamda başarıyla çalıştığının kanıtı değildir.
+
+11. SORUMLULUK
+
+Projeyi kullanan kişi gerçekleştirdiği tüm işlemlerden kendisi sorumludur.
+
+xaloAC veya x410m1s0, projenin kullanımından kaynaklanan doğrudan veya dolaylı zararlar, veri kaybı, hesap kaybı, sistem hasarı, güvenlik olayları veya üçüncü taraf taleplerinden sorumlu değildir.
+
+12. LİSANSIN SONA ERMESİ
+
+Bu lisansın şartlarının ihlal edilmesi halinde verilen kullanım izinleri otomatik olarak sona erer.
+
+13. HAKLARIN SAKLI TUTULMASI
+
+Bu lisans kapsamında açıkça verilen haklar dışında proje üzerindeki tüm haklar xaloAC tarafından saklı tutulur.
+
+Bu lisans, açıkça belirtilmeyen herhangi bir kullanım hakkının devredildiği anlamına gelmez.
+
+---
 
 Copyright (c) 2026 xaloAC
 
-Permission is hereby granted, free of charge, to any person obtaining a copy
-of this software and associated documentation files (the "Software"), to deal
-in the Software without restriction, including without limitation the rights
-to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-copies of the Software, and to permit persons to whom the Software is
-furnished to do so, subject to the following conditions:
+Developer: x410m1s0
 
-The above copyright notice and this permission notice shall be included in all
-copies or substantial portions of the Software.
-
-THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE.
+Tüm hakları saklıdır.
